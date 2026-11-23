@@ -1,0 +1,7 @@
+usertest/
+dist/
+build/
+*.xcodeproj
+.DS_Store
+*.profraw
+._*
